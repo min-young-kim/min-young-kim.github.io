@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Thank you for visiting my website! 
+
 My name is Minyoung Kim, and I am a PhD Candidate at the University of Minnesota, Twin Cities. My research interests include political psychology, values, polarization, and experimental methods. I am specifically interested in the role that values play in political attitudes and partisanship. 
 
 Contact me at kim00844@umn.edu.
