@@ -16,4 +16,4 @@ Contact me at kim00844@umn.edu.
 
 Why do I study American Politics and Political Psychology? 
 ======
-I moved to the United States from South Korea when I was 15. I lived in South Carolina, Maryland, Oregon, Massachusetts, and California. This naturally prompted the question - why and how Americans came to hold such varied values, and how values and different lifestyles relate to the political attitudes they hold. 
+I moved to the United States from South Korea with my family when I was 15. I lived in South Carolina, Maryland, Oregon, Massachusetts, and California. This naturally prompted questions of why and how Americans are so different from one another! How Americans came to hold such varied values, and how values and different lifestyles relate to the political attitudes they hold. 
