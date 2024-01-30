@@ -7,5 +7,7 @@ redirect_from:
   - /resume
 ---
 
+<embed src="{{ site.baseurl }}/files/KimCV2024.pdf" width="600" height ="700" type="application/pdf">
+
 {% include base_path %}
 
