@@ -1,5 +1,5 @@
 ---
-title: "Basic Human Values and Partisan Cues (Dissertation Chapter)"
+title: "The Political Is Personal: Basic Human Values and Partisan Cues (Dissertation Chapter)"
 collection: research
 permalnk: /research/2023-07-19-basic-human-values-and-partisan-cues
 status: Revise and Resubmit at American Politics Research
