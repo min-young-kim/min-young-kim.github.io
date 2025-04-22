@@ -1,7 +1,7 @@
 ---
 title: "Race, Ethnicity, and Moral Values"
 collection: research
-permalink: /research/2023-07-19-political-fatalism
+permalink: /research/2025-04-22-race-ethnicity-and-values
 coauthor: Paul Goren, Emily Kurtz, Caitlyn Barrett, and Minyoung Kim
 excerpt: 'In the United States, the language of traditional family values took root in the Religious
 Right movement of the 1970s. Conservative white religious leaders constructed a
@@ -20,9 +20,8 @@ apply measurement modeling techniques to the ANES moral traditionalism and
 Schwartz conservation items in samples of whites, Blacks, and Hispanics. We find that
 whites alone express fully structured beliefs about traditional family values; and that
 whites, Blacks, and Hispanics express fully structured beliefs about tradition,
-conformity, and social change that transcend politics.'
+conformity, and social change that transcend politics.
 
-Reject and Resubmit at Political Behavior
-
+Reject and Resubmit at Political Behavior'
 ---
 
