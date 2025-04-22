@@ -2,6 +2,7 @@
 title: "Race, Ethnicity, and Moral Values"
 collection: research
 permalink: /research/2025-04-22-race-ethnicity-and-values
+status: Reject and Resubmit at Political Behavior
 coauthor: Paul Goren, Emily Kurtz, Caitlyn Barrett, and Minyoung Kim
 excerpt: 'In the United States, the language of traditional family values took root in the Religious
 Right movement of the 1970s. Conservative white religious leaders constructed a
